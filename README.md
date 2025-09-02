@@ -5,9 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mukund2506" alt="mukund2506" /></a> </p>
 
-- 🔭 I’m currently working on **Sales Force**
+- 🔭 I’m currently working on [Sales Force](https://github.com/mukund2506/Bank-Management)
 
-- 🌱 I’m currently learning **APEX,LWC,TRIGGER**
+- 🌱 I’m currently learning **APEX,LWC,TRIGGER,FLOW**
+
+- 👯 I’m looking to collaborate on **comer**
+
+- 👨‍💻 All of my cerification [Certification](https://mukund2506.github.io/Certificate-Showcase/)
 
 - 👨‍💻 All of my projects are available at [https://mukund2506.github.io/portfolio/](https://mukund2506.github.io/portfolio/)
 
@@ -16,6 +20,8 @@
 - 📫 How to reach me **mukundjagani@gmail.com**
 
 - 📄 Know about my experiences [https://mukund2506.github.io/portfolio/](https://mukund2506.github.io/portfolio/)
+
+- ⚡ Fun fact **Cool**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

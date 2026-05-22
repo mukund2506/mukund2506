@@ -12,11 +12,11 @@
   <img src="https://komarev.com/ghpvc/?username=mukund2506&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="views"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=mukund2506&theme=algolia&row=1&column=7" />
   </a>
-</p>
+</p> -->
 
 ---
 

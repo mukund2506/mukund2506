@@ -1,37 +1,122 @@
 <h1 align="center">Hi 👋, I'm Mukund Jagani</h1>
-<h3 align="center">A passionate Salesforce Developer/Admin Or Full Stack Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mukund2506&label=Profile%20views&color=0e75b6&style=flat" alt="mukund2506" /> </p>
+<h3 align="center">
+🚀 Salesforce Developer | Admin | Full Stack Developer
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mukund2506" alt="mukund2506" /></a> </p>
-
-- 🔭 I’m currently working on [Sales Force](https://github.com/mukund2506/Bank-Management)
-
-- 🌱 I’m currently learning **APEX,LWC,TRIGGER,FLOW**
-
-- 👯 I’m looking to collaborate on **comer**
-
-- 👨‍💻 All of my cerification [Certification](https://mukund2506.github.io/Certificate-Showcase/)
-
-- 👨‍💻 All of my projects are available at [https://mukund2506.github.io/portfolio/](https://mukund2506.github.io/portfolio/)
-
-- 💬 Ask me about **HTML,CSS,JS,PHP,PYTHON**
-
-- 📫 How to reach me **mukundjagani@gmail.com**
-
-- 📄 Know about my experiences [https://mukund2506.github.io/portfolio/](https://mukund2506.github.io/portfolio/)
-
-- ⚡ Fun fact **Cool**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mukund-jagani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mukund-jagani" height="30" width="40" /></a>
-<a href="https://instagram.com/mukundjagani_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mukundjagani_" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Salesforce+Developer;Apex+%7C+LWC+%7C+Flows;Full+Stack+Developer;Passionate+about+CRM+Automation;Always+Learning+New+Tech" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mukund2506&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="views"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukund2506&show_icons=true&locale=en&layout=compact" alt="mukund2506" /></p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mukund2506&theme=algolia&row=1&column=7" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukund2506&show_icons=true&locale=en" alt="mukund2506" /></p>
+---
+
+## 👨‍💻 About Me
+
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+* 🔭 Currently working on **Salesforce CRM Applications**
+* 🌱 Learning **Apex, LWC, Triggers, Flow & Integrations**
+* 👯 Looking to collaborate on **Salesforce & Web Projects**
+* 💬 Ask me about **Salesforce, JavaScript, PHP, Python**
+* 📫 Reach me at **[mukundjagani@gmail.com](mailto:mukundjagani@gmail.com)**
+* ⚡ Fun fact: **I automate things for fun 😎**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/mukund-jagani" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="50" />
+</a>
+
+<a href="https://instagram.com/mukundjagani_" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=instagram" height="50" />
+</a>
+</p>
+
+---
+
+## 🏆 Certifications & Portfolio
+
+🌟 Certifications:
+👉 https://mukund2506.github.io/Certificate-Showcase/
+
+💼 Portfolio Website:
+👉 https://mukund2506.github.io/portfolio/
+
+---
+
+## ⚒️ Languages & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,nodejs,php,python,mysql,mongodb,java,html,css,bootstrap,tailwind,django,docker,git,github,figma,aws" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apex-1798c1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LWC-Lightning-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Flow-Automation-orange?style=for-the-badge"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mukund2506&show_icons=true&theme=tokyonight" />
+
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukund2506&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukund2506&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Featured Skills
+
+```yaml
+CRM Development:
+  - Salesforce
+  - Apex
+  - LWC
+  - Triggers
+  - Flow Builder
+
+Backend:
+  - Node.js
+  - PHP
+  - Python
+
+Frontend:
+  - HTML
+  - CSS
+  - JavaScript
+  - Tailwind CSS
+
+Database:
+  - MySQL
+  - MongoDB
+
+DevOps & Cloud:
+  - Docker
+  - AWS
+  - GitHub Actions
+```
+
+---
+
+<h3 align="center">✨ “Code. Automate. Innovate.” ✨</h3>

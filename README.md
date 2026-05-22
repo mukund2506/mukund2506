@@ -39,10 +39,6 @@
 <a href="https://linkedin.com/in/mukund-jagani" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="50" />
 </a>
-
-<a href="https://instagram.com/mukundjagani_" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=instagram" height="50" />
-</a>
 </p>
 
 ---
@@ -60,7 +56,7 @@
 ## ⚒️ Languages & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,nodejs,php,python,mysql,mongodb,java,html,css,bootstrap,tailwind,django,docker,git,github,figma,aws" />
+<img src="https://skillicons.dev/icons?i=js,php,python,mysql,mongodb,java,html,css,bootstrap,github,figma" />
 </p>
 
 <p align="center">
@@ -93,11 +89,11 @@ CRM Development:
   - Salesforce
   - Apex
   - LWC
+  - Aura Components
   - Triggers
   - Flow Builder
 
 Backend:
-  - Node.js
   - PHP
   - Python
 
@@ -105,17 +101,10 @@ Frontend:
   - HTML
   - CSS
   - JavaScript
-  - Tailwind CSS
 
 Database:
   - MySQL
   - MongoDB
-
-DevOps & Cloud:
-  - Docker
-  - AWS
-  - GitHub Actions
-```
 
 ---
 
